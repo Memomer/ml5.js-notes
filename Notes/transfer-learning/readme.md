@@ -1,5 +1,5 @@
 # What is transfer learning?
--> transfer data to train a feature extractor.
+-> reuse the model, expanding its scope by fidgeting around with its feature.
 
 # What is teachable machine?
 -> an application where you can train the ml model on your own custom dataset and have it predict 
